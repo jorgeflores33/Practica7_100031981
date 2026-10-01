@@ -1,3 +1,0 @@
-Pendiente: captura de la página con al menos dos secciones activas.
-Pendiente: captura de la consola F12 mostrando los console.log generados.
-Consulta README.md para los pasos de comprobación.
